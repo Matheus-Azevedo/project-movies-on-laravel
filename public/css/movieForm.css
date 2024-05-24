@@ -1,0 +1,12 @@
+.background-body {
+    background-image: url("/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.background-form,
+.background-list {
+    opacity: 0.9;
+    max-width: 500px;
+    width: 100%;
+}
